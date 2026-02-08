@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaustav Ray</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer and vibe coder from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamkkronly&label=Profile%20views&color=0e75b6&style=flat" alt="iamkkronly" /> </p>
 
@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on **n8n**
+- 👯 I’m looking to collaborate on **Github**
 
-- 💬 Ask me about **html**
+- 💬 Ask me about **Open Source**
 
 - 📫 How to reach me **kkray1345@gmail.com**
 
