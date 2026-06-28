@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Open Source**
 
-- 📫 How to reach me **kkray1345@gmail.com**
+- 📫 How to reach me **https://t.me/filestore4uhelpbot**
 
 - ⚡ Fun fact **Hello World**
 
