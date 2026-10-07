@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=200&section=header&text=Kaustav%20Ray&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Vibe%20Coder%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=18" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=200&section=header&text=Kaustav%20Ray&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Always%20Learning&descAlignY=58&descSize=18" alt="header" width="100%"/>
 
 <h1>Hi 👋, I'm Kaustav Ray</h1>
-<h3>A passionate developer and vibe coder from India 🇮🇳</h3>
+<h3>A passionate developer from India 🇮🇳</h3>
 
 <a href="https://github.com/iamkkronly"><img src="https://img.shields.io/badge/GitHub-iamkkronly-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
 <a href="https://t.me/filestore4uhelpbot"><img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 <a href="https://instagram.com/iamkkronly"><img src="https://img.shields.io/badge/Instagram-iamkkronly-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="mailto:kkray1345@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
@@ -15,6 +16,8 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=iamkkronly&label=Profile%20views&color=0e75b6&style=flat" alt="iamkkronly" />
+  <img src="https://img.shields.io/github/followers/iamkkronly?label=Followers&style=flat&color=0e75b6&logo=github" alt="followers" />
+  <img src="https://img.shields.io/github/stars/iamkkronly?label=Stars&style=flat&color=0e75b6&logo=github" alt="stars" />
 </p>
 
 <p>
@@ -54,6 +57,10 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamkkronly&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamkkronly&theme=react-dark&hide_border=true&area=true" alt="activity graph" width="100%" />
 </p>
 
 ---
